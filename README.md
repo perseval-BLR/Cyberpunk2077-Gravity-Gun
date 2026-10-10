@@ -3,8 +3,9 @@
 Pick up crates, bodies and cars in Night City and throw them across the street — the Zero Point Energy Field
 Manipulator from Half-Life 2, rebuilt on Half-Life 2's own rules (`weapon_physcannon.cpp`, Source SDK 2013).
 
-**Download:** the ready-to-install archive is on Nexus Mods (link coming soon). This repository holds the source
-code and configuration; the 3D model and sounds ship only in the archive.
+**Download:** the ready-to-install archive is in
+[Releases](https://github.com/perseval-BLR/Cyberpunk2077-Gravity-Gun/releases/latest) (Nexus Mods page coming
+soon). This repository holds the source code and configuration; the 3D model and sounds ship only in the archive.
 
 > **Fan-made, non-commercial.** Not affiliated with or endorsed by Valve, CD PROJEKT RED, Orbifold Studios or
 > NVIDIA. See [Disclaimer](#disclaimer) and [CREDITS](CREDITS.md).
