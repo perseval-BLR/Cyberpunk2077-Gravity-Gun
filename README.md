@@ -9,7 +9,12 @@ code and configuration; the 3D model and sounds ship only in the archive.
 > **Fan-made, non-commercial.** Not affiliated with or endorsed by Valve, CD PROJEKT RED, Orbifold Studios or
 > NVIDIA. See [Disclaimer](#disclaimer) and [CREDITS](CREDITS.md).
 
-![Gravity Gun](screenshots/main.png)
+![A police car held by the gravity gun](screenshots/ingame/1_police_car_held.jpg)
+
+| | |
+|---|---|
+| ![Car explodes](screenshots/ingame/2_car_explodes.jpg) | ![NPC launched through fire](screenshots/ingame/3_npc_through_fire.jpg) |
+| ![NPC held](screenshots/ingame/4_npc_held.jpg) | ![The model](screenshots/main.png) |
 
 ## Features
 - **Pull** (right mouse, hold): the object under the crosshair is pulled towards you and grabbed — props, NPCs
