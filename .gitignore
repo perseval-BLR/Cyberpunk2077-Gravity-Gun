@@ -1,0 +1,5 @@
+*.archive
+*.wav
+*.zip
+log.txt
+tune.lua

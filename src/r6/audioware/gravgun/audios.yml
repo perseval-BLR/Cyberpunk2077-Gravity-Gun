@@ -1,0 +1,48 @@
+# Gravity Gun (Half-Life 2) for Cyberpunk 2077 v1.0.0 - fan-made, non-commercial. See README / CREDITS.
+version: 1.0.0
+sfx:
+  gravgun_hold:
+    file: physcannon_hold_loop.wav
+    settings:
+      loop: true
+      volume: 0.3
+  gravgun_pickup:
+    file: physcannon_pickup.wav
+    settings:
+      volume: 0.5
+  gravgun_drop:
+    file: physcannon_drop.wav
+    settings:
+      volume: 0.5
+  gravgun_launch1:
+    file: superphys_launch1.wav
+    settings:
+      volume: 0.35
+  gravgun_launch2:
+    file: superphys_launch2.wav
+    settings:
+      volume: 0.35
+  gravgun_launch3:
+    file: superphys_launch3.wav
+    settings:
+      volume: 0.35
+  gravgun_launch4:
+    file: superphys_launch4.wav
+    settings:
+      volume: 0.35
+  gravgun_dryfire:
+    file: physcannon_dryfire.wav
+    settings:
+      volume: 0.5
+  gravgun_tooheavy:
+    file: physcannon_tooheavy.wav
+    settings:
+      volume: 0.5
+  gravgun_claws_open:
+    file: physcannon_claws_open.wav
+    settings:
+      volume: 0.5
+  gravgun_off:
+    file: physgun_off.wav
+    settings:
+      volume: 0.5

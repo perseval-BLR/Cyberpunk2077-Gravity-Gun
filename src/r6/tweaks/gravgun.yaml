@@ -1,0 +1,17 @@
+# Gravity Gun (Half-Life 2) for Cyberpunk 2077 v1.0.0 - fan-made, non-commercial. See README / CREDITS.
+# The gravity gun item: an Igla (two-handed double-barrel shotgun) underneath. Its look comes from gravgun.archive
+# (ArchiveXL resource patches add the appearance "gravgun" to the Igla's appearance files; the gun picks it by its
+# visual tag). The Cyber Engine Tweaks part (mods/gravgun) gives the gun and takes over its mouse buttons.
+Items.GravGun:
+  $base: Items.Preset_Igla_Default
+  visualTags: [GravGun]
+  appearanceName: gravgun
+  displayName: LocKey#gravgun-name
+  localizedDescription: LocKey#gravgun-desc
+  iconPath: gravgun_icon
+  icon: UIIcon.gravgun_icon
+
+UIIcon.gravgun_icon:
+  $type: gamedataUIIcon_Record
+  atlasResourcePath: gravgun\icon\gravgun_icon.inkatlas
+  atlasPartName: gravgun

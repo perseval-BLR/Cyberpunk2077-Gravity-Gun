@@ -1,0 +1,19 @@
+# Gravity Gun (Half-Life 2) for Cyberpunk 2077 v1.0.0 - fan-made, non-commercial. See README / CREDITS.
+factories:
+  - gravgun\gravgun_factory.csv
+resource:
+  patch:
+    gravgun\patch\igla_main.app:
+      - base\weapons\firearms\shotgun_dual\rostovic_igla\w_shotgun_dual__rostovic_igla.app
+    gravgun\patch\igla_rcv1.app:
+      - base\weapons\firearms\shotgun_dual\rostovic_igla\appearances\w_shotgun_dual__rostovic_igla__rcv1_01.app
+    gravgun\patch\igla_base1.app:
+      - base\weapons\firearms\shotgun_dual\rostovic_igla\appearances\w_shotgun_dual__rostovic_igla__base1_01.app
+    gravgun\patch\igla_mag_std.app:
+      - base\weapons\firearms\shotgun_dual\rostovic_igla\appearances\w_shotgun_dual__rostovic_igla__mag_std_01.app
+    gravgun\patch\igla_mag_stdr.app:
+      - base\weapons\firearms\shotgun_dual\rostovic_igla\appearances\w_shotgun_dual__rostovic_igla__mag_stdr_01.app
+localization:
+  onscreens:
+    ru-ru: gravgun\localization\ru-ru.json
+    en-us: gravgun\localization\en-us.json
